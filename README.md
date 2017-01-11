@@ -40,4 +40,4 @@ var books = [
 
 NB : n'oubliez pas de rajouter du style css.
 
-### 2. Ajouter 2 boutons intitulés JS et CSS dans la page html qui permettent de filtrer, respectivement, les livres de type CSS et JS.
+### 2. AjouteZ 2 boutons intitulés JS et CSS dans la page html qui permettent de filtrer, respectivement, les livres de type CSS et JS.
