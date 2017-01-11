@@ -3,7 +3,8 @@
 
 ### 1. Afficher les données ci-dessus sous forme de liste dans une page html :
 
-```var books = [
+```javascript
+var books = [
   {
     title: 'CSS: The Definitive Guide',
     author: 'Eric Meyer',
