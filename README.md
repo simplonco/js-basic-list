@@ -1,5 +1,19 @@
 # js-basic-list
 
+## Préambules
+
+Liste de la doc utile pour les (l') exercices de la journée
+
+## Consignes
+
+Consignes globales : 
+- contraintes et bonnes pratiques en relation avec les exercices de la journée
+- Si tu as une question, demande à ton voisin de droite
+- Autrement ton voisin de gauche
+- ...
+
+## Enoncés d'exercice
+
 
 ### 1. Afficher les données ci-dessus sous forme de liste dans une page html :
 
