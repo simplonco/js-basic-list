@@ -1,7 +1,7 @@
 # js-basic-list
 
 
-### 1. Afficher les données ci-dessus sous forme de liste dans une page html :
+### 1. Afficher les données ci-dessous sous forme de liste dans une page html :
 
 ```javascript
 var books = [
