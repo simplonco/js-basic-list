@@ -32,7 +32,7 @@ var books = [
 {
   title: 'Modern JavaScript',
   author: 'unknown',
-  link: 'http://www.oreilly.com/web-platform/free/modern-javascript.csp'
+  link: 'http://www.oreilly.com/web-platform/free/modern-javascript.csp',
   type: 'js'
 }
 ] ;
