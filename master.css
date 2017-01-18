@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding:  0;
+
+}
+
+body{
+  font-family: futura;
+}
+
+.container{
+  width: 100vw;
+  /*height: 100vh;*/
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+.booksList{
+  list-style: none;
+  font-family: futura;
+}
+ul {
+  list-style: none;
+}
+.checkbox{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+.main{
+  border: 1px solid black;
+  padding: 10px 5px;
+  width: 417px;
+}
+.title{
+  font-size: 20px;
+  font-weight: bold;
+}
+.author{
+  font-size: 14px;
+  font-weight: 100;
+}
+.type{
+  font-size: 15px;
+  font-style: italic;
+}
+.nothing{
+  display: none;
+}
+button{
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(224, 130, 140);
+  color: white;
+  width: 100px;
+  height: 30px;
+}
