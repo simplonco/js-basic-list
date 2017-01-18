@@ -48,7 +48,7 @@ var page = document.querySelector("body");
 
 //création du container qui contiendra la liste
 var containerElt = document.createElement("div");
-document.querySelector("body").appendChild(containerElt);
+page.appendChild(containerElt);
 
 //compteur de la fonction image
 var j = 1;
@@ -58,7 +58,7 @@ function afficherListe () {
 //boucle qui va permettre de parcourir le tableau d'objets
 for (var i in books) {
 
-  //création d'une div qui englobera l'image et le contenu texttuel
+  //création d'une div qui englobera l'image et le contenu textuel
   var rowContent = document.createElement("div");
   rowContent.className = "row-style";
   //création de l'image d'illustration
@@ -79,7 +79,7 @@ for (var i in books) {
   //déclenchement de la fonction pour afficher les images
   images (imageElt);
 
-  //rattachement des Li à Ul
+  //rattachement des LI à Ul
   listeUlElt.appendChild(titleElt);
   listeUlElt.appendChild(authorElt);
   listeUlElt.appendChild(linkElt);
