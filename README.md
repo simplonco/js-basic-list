@@ -2,9 +2,7 @@
 
 
 ### 1. Afficher les données ci-dessous sous forme de liste dans une page html :
-
-```javascript
-var books = [
+salut
 {
   title: 'CSS: The Definitive Guide',
   author: 'Eric Meyer',
