@@ -93,7 +93,7 @@ for (var i in books) {
 };
 
 function images (image) {
-    image.src = "image" + j + ".jpg";
+    image.src = "images/image" + j + ".jpg";
     j++;
 };
 
