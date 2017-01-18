@@ -1,0 +1,15 @@
+div {
+  display: flex;
+  justify-content: center;
+}
+li {
+  list-style: none;
+}
+ul {
+  border: 2px solid rgb(81, 180, 164);
+  padding: 2%;
+  width: 400px;
+}
+.hidden {
+  visibility: hidden;
+}
