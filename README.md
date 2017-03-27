@@ -1,5 +1,6 @@
 # js-basic-list
 
+See the page [here](https://paulpourtout.github.io/js-basic-list/).
 
 ### 1. Afficher les données ci-dessous sous forme de liste dans une page html :
 
