@@ -3,6 +3,13 @@
 
 ### 1. Afficher les données ci-dessous sous forme de liste dans une page html :
 
+Chaque element de la liste HTML doit comprendre :
+
+* un titre (title)
+* un auteur (author)
+* un lien (link)
+* un type (type)
+
 ```javascript
 var books = [
 {
@@ -37,6 +44,14 @@ var books = [
 }
 ] ;
 ```
+
+Pour reussir cet exercice, vous devez :
+
+ * boucler sur les elements du tableau javascript
+ * créer un element HTML parent pour chaque element du tableau javascript (rappel: document.createElement('li') par exemple)
+ * créer pour chaque propriétés (title, author, link, type) de chaque element du tableau, un element HTML (rappel: document.createElement('p') par exemple)
+ * Ajouter les elements HTML correspondant à chaque propriétés (title, author, link, type) à l'element HTML parent (celui créé auparavant)
+ * Au final, vous devez ajouter (appendChild) chaque element parent à un element UL existant dans le HTML
 
 NB : n'oubliez pas de rajouter du style css.
 
